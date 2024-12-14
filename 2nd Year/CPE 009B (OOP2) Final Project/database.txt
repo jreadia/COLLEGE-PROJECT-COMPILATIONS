@@ -1,0 +1,46 @@
+Ammeter,23
+Breadboard,32
+Capacitor,47
+Clamp Meter,18
+Connector Strips,45
+DC Power Supply,42
+Diode,14
+Digital Oscilloscope,36
+Electrical Tape,8
+Electromechanical Relay,52
+Function Generator,45
+Heat Shrink Tubing,23
+Insulated Wires,56
+Isolation Transformer,7
+LED (Light Emitting Diode),26
+Logic Analyzer,21
+Multimeter,29
+Op-Amp Module,64
+PCB (Printed Circuit Board),9
+Power Analyzer,50
+Power Resistor,60
+Prototyping Board,3
+Relay Module,17
+Resistance Box,53
+Rheostat,11
+Rotary Encoder,49
+Screwdriver Set,28
+Signal Generator,20
+Soldering Iron,72
+Soldering Paste,13
+Soldering Wire,29
+Switches,77
+Terminal Block,19
+Thermocouple,4
+Transformer,88
+Transistor,39
+Tweezers,16
+Varistor,14
+Vernier Caliper,10
+Voltage Divider,35
+Voltage Regulator,40
+Voltmeter,12
+Wire Cutter,57
+Wire Stripper,24
+Wiring Harness,46
+Zener Diode,62
